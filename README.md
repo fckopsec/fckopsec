@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuckopsec&label=Profile%20views&color=0e75b6&style=flat" alt="fuckopsec" /> </p>
 
-- 🔭 I’m currently working on [FiveM Enhancement Project](https://get.silentium.club)
-
 - 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **contact@silentium.club**
