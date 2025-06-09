@@ -1,17 +1,31 @@
-<h1 align="center">Hello 👋, I'm fuckopsec/empathogens</h1>
-<h3 align="center">Frontend & Backend developer from Poland</h3>
+### hey there~ 💖 welcome to my little corner of the internet~
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuckopsec&label=Profile%20views&color=0e75b6&style=flat" alt="fuckopsec" /> </p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJqZTVkNms4cnkxb3FwNzVxeXNudXZycDN4eWl3ZTRycDJzZ2phcCZlcD12MV8x/g9582DNuQppxC/giphy.gif" width="100" align="right"/>
 
-- 🌱 Currently working on **https://legendium.online**
+🌸 I'm [YourName]  
+🛠️ I like coding weird stuff, learning new things, and making digital magic~  
+🎮 Gamer, terminal enjoyer, night owl 💻🌙  
+🐾 Currently working on: `secret stuff (shhh...)`
 
-- 📫 How to reach me **chiefkeef.pl@gmail.com**
+---
 
-- 🧠 I have experience in **Software Development, Front-end & Back-end.**
+#### ✨ a few things I love
+- 🍜 Ramen and late-night coding
+- 🎧 Lo-fi beats while I debug
+- 🌌 Tinkering with game mods & cheats (for educational purposes, ofc hehe~)
+- 🖤 FOSS and cute UIs
 
+---
 
+#### 📈 GitHub Stats (because why not?)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a href="https://www.w3schools.com/lua/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuckopsec&show_icons=true&locale=en&layout=compact" alt="fuckopsec" /></p>
+#### 📫 how to reach me
+- 💌 Discord: `yourtag#0001`
+- 🌐 Website: [yourdomain.com](https://yourdomain.com)
+
+---
+
+> 🌟 *"Keep it cute, keep it cursed, keep it compiling."*  
