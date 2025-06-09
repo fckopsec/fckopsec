@@ -1,6 +1,6 @@
-### hey there~ 💖 welcome to my little corner of the internet~
+### self claimed fullstack dev 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJqZTVkNms4cnkxb3FwNzVxeXNudXZycDN4eWl3ZTRycDJzZ2phcCZlcD12MV8x/g9582DNuQppxC/giphy.gif" width="100" align="right"/>
+
 
 🌸 I'm [YourName]  
 🛠️ I like coding weird stuff, learning new things, and making digital magic~  
