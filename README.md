@@ -1,4 +1,4 @@
-### wsg, i'm a self claimed fullstack dev
+### fullstack dev from oblock
 
 
 
@@ -8,12 +8,12 @@
 
 ---
 
-#### things i like
+#### i do things in
 - C++
-- C++
-- C++
-- C++
-- maybe C++
+- C
+- Rust
+- Arduino
+- React
 
 ---
 
