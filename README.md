@@ -9,7 +9,7 @@
 ### Working on
 - Iridium.pw | Owner, Lead Developer
 
----
+
 
 ### Previously worked on
 - Glorywin.club | Loader Developer 
@@ -22,7 +22,7 @@
 - C
 - LUA
 
----
+
 
 ### Secondary languages
 - Python
@@ -35,5 +35,5 @@
 - discord: `opsec2k9`
 - email: `chiefkeef.pl@gmail.com`
 - Telegram: `fuck0psec`
----
+
 
