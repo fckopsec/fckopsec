@@ -1,30 +1,39 @@
-### fullstack dev from oblock
+# cwel
 
+- I'm opsec/opsec2k9
+- From Poland
+- 2+ Years in software development 
 
+------------------------------------
 
-- i'm opsec/opsec2k9
-- Developer, creating mostly private projects
-- Currently working on: `https://iridium.pw`
+### Working on
+- Iridium.pw | Owner, Lead Developer
 
 ---
 
-#### i do things in
+### Previously worked on
+- Glorywin.club | Loader Developer 
+- Silentium.club | Owner & Lead Developer
+
+------------------------------------
+
+### Main languages
 - C++
 - C
-- Rust
-- Arduino
+- LUA
+
+---
+
+### Secondary languages
+- Python
 - React
+- C#
 
----
+------------------------------------
 
-#### useless stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=fckopsec&show_icons=true&theme=tokyonight)
-
----
-
-#### reach me @
+## Reach me @
 - discord: `opsec2k9`
 - email: `chiefkeef.pl@gmail.com`
-
+- Telegram: `fuck0psec`
 ---
 
